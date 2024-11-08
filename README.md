@@ -12,9 +12,7 @@
 </div>
 </center>
  
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>
 
 - 👋 Hi, I’m @Ayaan12coder </br>
 - 👀 I’m interested in ...
